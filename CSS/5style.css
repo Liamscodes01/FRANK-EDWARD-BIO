@@ -1,0 +1,18 @@
+body{
+    background-color: hsl(180, 100%, 50%);
+}
+
+h1{
+    color: rgb(48, 3, 107);
+    text-shadow: 4px 4px 7px hsl(0, 0%, 100%), -4px 4px 7px oklch(62.793% 0.25768 29.223);
+    border-style: solid;
+    border-radius: 9px;
+}
+h2{
+    color: black;
+        text-shadow: 4px 4px 7px hsl(60, 100%, 50%), -4px 4px 7px oklch(41.364% 0.2794 265.375);
+}
+h3{
+    color: rgb(0, 0, 0);
+        text-shadow: 4px 4px 7px hsl(0, 0%, 100%), -4px 4px 7px oklch(87.606% 0.17901 94.632);
+}
